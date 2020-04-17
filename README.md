@@ -11,3 +11,5 @@ Source code is available at:
 github.com/hgoodman/yahoo-pre-draft
 
 This is a third-party extension, not supported by Yahoo!
+
+Good to know!
